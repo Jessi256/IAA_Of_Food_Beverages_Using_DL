@@ -36,7 +36,6 @@ For each test case a performance evaluation is conducted using percentage accura
 
 <h3>Modeling</h3>
 <img src="https://github.com/Jessi256/IAA_Of_Food_Beverages_Using_DL/blob/main/Images/Modeling.PNG" alt="Modeling">
-<img src="https://github.com/Jessi256/IAA_Of_Food_Beverages_Using_DL/blob/main/Images/Modeling_Text.PNG" alt="Modeling">
 
 <h3>Further Investigations</h3>
 <img src="https://github.com/Jessi256/IAA_Of_Food_Beverages_Using_DL/blob/main/Images/Further_Investigations.PNG" alt="Further Investigations">
