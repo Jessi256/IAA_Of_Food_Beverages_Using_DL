@@ -29,17 +29,17 @@ To ensure reliable results and a systematic evaluation for the reaserch question
 For each test case a performance evaluation is conducted using percentage accuracy (A) and balanced accuracy (BA) as metrics. This evaluation helps to explore the possibilities of IAA on food and beverage images considering different influencing factors. Compared to accuracy, balanced accuracy is a metric that considers both false positives and false negatives and provides a more comprehensive measure of model performance. It is useful for datasets with an uneven class distribution as it takes the imbalance in the data into account.
 
 <h3>Label Preprocessing</h3>
-<img src="https://github.com/Jessi256/IAA_Of_Food_Beverages_Using_DL/blob/main/Images/Label_Preprocessing.png" alt="Label Preprocessing">
+<img src="https://github.com/Jessi256/IAA_Of_Food_Beverages_Using_DL/blob/main/Images/Label_Preprocessing.PNG" alt="Label Preprocessing">
 
 <h3>Image Preprocessing</h3>
-<img src="https://github.com/Jessi256/IAA_Of_Food_Beverages_Using_DL/blob/main/Images/Image_Preprocessing.png" alt="Image Preprocessing">
+<img src="https://github.com/Jessi256/IAA_Of_Food_Beverages_Using_DL/blob/main/Images/Image_Preprocessing.PNG" alt="Image Preprocessing">
 
 <h3>Modeling</h3>
-<img src="https://github.com/Jessi256/IAA_Of_Food_Beverages_Using_DL/blob/main/Images/Modeling.png" alt="Modeling">
-<img src="https://github.com/Jessi256/IAA_Of_Food_Beverages_Using_DL/blob/main/Images/Modeling_Text.png" alt="Modeling">
+<img src="https://github.com/Jessi256/IAA_Of_Food_Beverages_Using_DL/blob/main/Images/Modeling.PNG" alt="Modeling">
+<img src="https://github.com/Jessi256/IAA_Of_Food_Beverages_Using_DL/blob/main/Images/Modeling_Text.PNG" alt="Modeling">
 
 <h3>Further Investigations</h3>
-<img src="https://github.com/Jessi256/IAA_Of_Food_Beverages_Using_DL/blob/main/Images/Further_Investigations.png" alt="Further Investigations">
+<img src="https://github.com/Jessi256/IAA_Of_Food_Beverages_Using_DL/blob/main/Images/Further_Investigations.PNG" alt="Further Investigations">
 
 <h3>Summary</h3>
 First, three label preprocessing approaches are tested with VGG16 on the RIAA dataset from scratch. To begin with, VGG16 is trained on an imbalanced dataset, then on a balanced dataset, and finally, a weighted VGG16 is trained on the imbalanced dataset. VGG16- Dweighted, unbalanced yields better performing than unweighted VGG16- Dunbalanced or VGG16- Dbalanced. Additionally, VGG16- Dweighted, unbalanced achieves better balanced accuracy prediction of aesthetic and unaesthetic images.
