@@ -22,9 +22,11 @@ RIAA is a brand-new, self-created and large-scale dataset for aesthetics assessm
 ***
 
 <h2>Experimental Study</h1>
-ToDo
-![image](https://user-images.githubusercontent.com/79257148/217082873-dd0f6d48-d69b-4557-a9d8-a2885a9fa722.png)
+To ensure reliable results and a systematic evaluation for the reaserch question “Can a deep learning system learn aesthetics of food and beverage images that reflect the taste of a layperson/expert in the field?” several state-of-the-art test cases on RIAA are conducted along the typical flow for IAA (see Figure 20). The three test cases label preprocessing, image preprocessing and modeling are constructed using the "ceteris paribus" principle. The "ceteris paribus" approach allows the influences of one variable to be isolated from the influences of other variables, so the effects of each variable can be measured independently. A red setting symbol indicates the variable that is changing within the test case, while all other variables remain the same. This approach can help identify which variables have the most significant impact on the model’s accuracy.
 
+<img src="https://github.com/Jessi256/IAA_Of_Food_Beverages_Using_DL/blob/main/Images/Methodology.png" alt="RIAA Dataset examples">
+
+For each test case a performance evaluation is conducted using percentage accuracy (A) and balanced accuracy (BA) as metrics. This evaluation helps to explore the possibilities of IAA on food and beverage images considering different influencing factors. Compared to accuracy, balanced accuracy is a metric that considers both false positives and false negatives and provides a more comprehensive measure of model performance. It is useful for datasets with an uneven class distribution as it takes the imbalance in the data into account.
 
 ***
 <h2>References</h1>
