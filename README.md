@@ -8,12 +8,12 @@ To support the research and applications that are related to image aesthetics as
 </ul>
 
 ***
-<h1>Background</h1>
+<h2>Background</h1>
 
 In recent years, a rapid growth of digital presentation and manipulation of food and beverages in online content has occurred [1–4]. This is due to growing interest in “foodporn” and “gastroporn” [5] as well as a growing attention in the visual presentation of products by marketers and advertisers [1, 6, 7]. According to statistics from the rise of Instagram, almost 85 percent of the images on its social media site are related to food [8]. Additionally, there are more than 853 million images associated with the hashtags “food”, “beverage”, “foodporn”, and “foodblogger” [9]. Consequently, identifying aesthetic food and beverage images is an important visual analysis task for social media and ranking systems that are related to food. The image aesthetics assessment (IAA) aims to distinguish aesthetic, high-quality images from unaesthetic, low-quality ones with the use of binary classification or scoring. Nevertheless, IAA of food and beverage images remains a challenging and relatively unexplored area in terms of deep learning. This is due to the lack of food and beverage image datasets and practical experience [10].
 
 ***
-<h1>RIAA: Recipe Image Aesthetics Assessment</h1>
+<h2>RIAA: Recipe Image Aesthetics Assessment</h1>
 RIAA is a brand-new, self-created and large-scale dataset for aesthetics assessment of food and beverage images. Compared to the existing food and beverage aesthetics dataset <a href="https://github.com/Openning07/GPA">GPD </a>, this dataset has a more diverse label annotation process, including annotations made from over 100 laypersons. This ensures a more diverse representation of labels and eliminates the bias that can come from a single annotator. 20,800 food and beverage images are collected with layperson-annotated labels (i.e., aesthetically positive, neutral, or negative) to build this dataset.
 <img src="https://github.com/Jessi256/IAA_Of_Food_Beverages_Using_DL/blob/main/Images/RIAA%20Dataset%20Examples.png" alt="RIAA Dataset examples">
 
@@ -21,13 +21,13 @@ RIAA is a brand-new, self-created and large-scale dataset for aesthetics assessm
 
 ***
 
-<h1>Experimental Study</h1>
+<h2>Experimental Study</h1>
 ToDo
 ![image](https://user-images.githubusercontent.com/79257148/217082873-dd0f6d48-d69b-4557-a9d8-a2885a9fa722.png)
 
 
 ***
-<h1>References</h1>
+<h2>References</h1>
 <p>[1]	C. Spence, K. Motoki, and O. Petit, “Factors influencing the visual deliciousness / eye-appeal of food,” Food Quality and Preference, vol. 102, p. 104672, 2022, doi: 10.1016/j.foodqual.2022.104672.</p>
 <p>[2]	S. Coary and M. Poor, “How consumer-generated images shape important consumption outcomes in the food domain,” Journal of Consumer Marketing, vol. 33, no. 1, pp. 1–8, 2016, doi: 10.1108/JCM-02-2015-1337.</p>
 <p>[3]	S. Zhang et al., “Tasting More Than Just Food: Effect of Aesthetic Appeal of Plate Patterns on Food Perception,” Foods (Basel, Switzerland), vol. 11, no. 7, 2022, doi: 10.3390/foods11070931.</p>
