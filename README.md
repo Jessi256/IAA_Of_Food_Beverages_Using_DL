@@ -15,7 +15,8 @@ In recent years, a rapid growth of digital presentation and manipulation of food
 ***
 <h1>RIAA: Recipe Image Aesthetics Dataset</h1>
 RIAA is a brand-new, self-created and large-scale dataset for aesthetics assessment of food and beverage images. Compared to the existing food and beverage aesthetics dataset <a href="https://github.com/Openning07/GPA">GPD </a>, this dataset has a more diverse label annotation process, including annotations made from over 100 laypersons. This ensures a more diverse representation of labels and eliminates the bias that can come from a single annotator. 
-![image](https://user-images.githubusercontent.com/79257148/217087433-ddb37334-7584-4315-a116-5c744deb29fb.png)
+<img src="https://github.com/Jessi256/IAA_Of_Food_Beverages_Using_DL/blob/main/Images/RIAA%20Dataset%20Examples.png" alt="RIAA Dataset examples">
+
 
 
 ***
