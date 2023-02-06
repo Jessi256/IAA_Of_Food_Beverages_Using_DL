@@ -28,16 +28,16 @@ To ensure reliable results and a systematic evaluation for the reaserch question
 
 For each test case a performance evaluation is conducted using percentage accuracy (A) and balanced accuracy (BA) as metrics. This evaluation helps to explore the possibilities of IAA on food and beverage images considering different influencing factors. Compared to accuracy, balanced accuracy is a metric that considers both false positives and false negatives and provides a more comprehensive measure of model performance. It is useful for datasets with an uneven class distribution as it takes the imbalance in the data into account.
 
-<h3>Label Preprocessing</h3>
+<h3>1. Label Preprocessing</h3>
 <img src="https://github.com/Jessi256/IAA_Of_Food_Beverages_Using_DL/blob/main/Images/Label_Preprocessing.PNG" alt="Label Preprocessing">
 
-<h3>Image Preprocessing</h3>
+<h3>2. Image Preprocessing</h3>
 <img src="https://github.com/Jessi256/IAA_Of_Food_Beverages_Using_DL/blob/main/Images/Image_Preprocessing.PNG" alt="Image Preprocessing">
 
-<h3>Modeling</h3>
+<h3>3. Modeling</h3>
 <img src="https://github.com/Jessi256/IAA_Of_Food_Beverages_Using_DL/blob/main/Images/Modeling.PNG" alt="Modeling">
 
-<h3>Further Investigations</h3>
+<h3>4. Further Investigations</h3>
 <img src="https://github.com/Jessi256/IAA_Of_Food_Beverages_Using_DL/blob/main/Images/Further_Investigations.PNG" alt="Further Investigations">
 
 <h3>Summary</h3>
