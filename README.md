@@ -59,4 +59,4 @@ Summarizing, it can be concluded that a deep learning system can learn aesthetic
 <p>[8]	C. Holmberg, J. E Chaplin, T. Hillman, and C. Berg, “Adolescents' presentation of food in social media: An explorative study,” Appetite, vol. 99, pp. 121–129, 2016, doi: 10.1016/j.appet.2016.01.009.</p>
 <p>[9]	Contributions of #food on Instagram. [Online]. Available: https://www.instagram.com/ (accessed: Dec. 29 2022).</p>
 <p>[10]	K. Sheng et al., “Learning to assess visual aesthetics of food images,” Comp. Visual Media, vol. 7, no. 1, pp. 139–152, 2021a, doi: 10.1007/s41095-020-0193-5.</p>
-
+ 
